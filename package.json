@@ -1,0 +1,25 @@
+{
+  "name": "jargonfile",
+  "version": "0.0.0",
+  "description": "Welcome to the Jargon File\r ==========",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.8.10"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/whollychaocomputerclub/jargonfile.git"
+  },
+  "author": "",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/whollychaocomputerclub/jargonfile/issues"
+  },
+  "homepage": "https://github.com/whollychaocomputerclub/jargonfile"
+}
